@@ -43,5 +43,3 @@ The project uses a SQL Server database to store the following:
    * Username: `Admin`
    * Password: `Admin`
   
-# Contribution Guidelines
-This is a student project for a course and contributions are not expected at this time.
